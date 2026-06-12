@@ -1,8 +1,3 @@
-"""
-Mental Health Intent Classification — Chatbot UI
-Run with:  streamlit run src/app.py
-"""
-
 import os
 import json
 import random
