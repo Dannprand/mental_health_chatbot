@@ -1,0 +1,33 @@
+# ==========================================
+# AI/ML Model Weights & Pickles (Ignore)
+# ==========================================
+# saved_model/
+saved_bert_base/
+saved_tod_bert/
+saved_distil_bert/
+# saved_logistic_regression/
+
+# Ignore any standalone model file types just in case
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.pkl
+
+# ==========================================
+# Python & Environment Defaults
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+.env
+
+# ==========================================
+# IDE / OS Specific Files
+# ==========================================
+.vscode/
+.DS_Store
+Thumbs.db
